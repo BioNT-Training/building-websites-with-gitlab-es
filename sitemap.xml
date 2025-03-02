@@ -1,93 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/01-introduction.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/02-markdown.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/02-markdown.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/03-gitlab-pages.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/03-gitlab-pages.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/04-gitlab-pages-jekyll.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/04-gitlab-pages-jekyll.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/05-gitlab-pages-sphinx.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/05-gitlab-pages-sphinx.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/06-jupyter-books.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/06-jupyter-books.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/07-templates.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/07-templates.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/08-when-things-go-wrong.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/08-when-things-go-wrong.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/404.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/404.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/CODE_OF_CONDUCT.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/LICENSE.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/discuss.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/aio.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/index.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/discuss.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/01-introduction.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/images.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/02-markdown.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/index.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/03-gitlab-pages.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/04-gitlab-pages-jekyll.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/02-markdown.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/05-gitlab-pages-sphinx.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/03-gitlab-pages.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/06-jupyter-books.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/04-gitlab-pages-jekyll.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/07-templates.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/05-gitlab-pages-sphinx.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/08-when-things-go-wrong.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/06-jupyter-books.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/404.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/07-templates.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/08-when-things-go-wrong.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/LICENSE.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/discuss.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/index.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/profiles.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/instructor/reference.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/discuss.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/profiles.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es-old/reference.html</loc>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://BioNT-Training.github.io/building-websites-with-gitlab-es/reference.html</loc>
   </url>
 </urlset>
